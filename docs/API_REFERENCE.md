@@ -2,7 +2,7 @@
 
 ## Authentication
 
-All requests require your API key. Pass it as a query parameter (`?key=YOUR_API_KEY`) or in the `Authorization: Bearer YOUR_API_KEY` header.
+All requests require your API key. Pass it as a query parameter (`?key=YOUR_API_KEY`)
 
 ---
 
